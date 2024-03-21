@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shailendra Jung Rana</h1>
+<h1 align="center">Hi , I'm Shailendra Jung Rana</h1>
 <h3 align="center">A passionate UI/UX Designer & Frontend Developer.</h3>
 <img align = “right” alt=“coding” width=“400” src =""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunjr11&label=Profile%20views&color=0e75b6&style=flat" alt="arunjr11" /> </p>
