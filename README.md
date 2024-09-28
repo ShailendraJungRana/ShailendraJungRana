@@ -4,11 +4,11 @@
 <img align = “right” alt=“coding” width=“400” src =""/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailendra-Jung-Rana&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra JR" /> </p>
 
-- 🔭 I’m currently working on **Marphat E-Commerce**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **react, javascript, figma**
+- 💬 Ask me about **React, Javascript, Figma**
 
 - 📫 How to reach me **shailendera.jungrana@gmail.com**
 
