@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi , I'm Shailendra Jung Rana</h1>
-<h2 align="center">A passionate Frontend Developer <br/><br/> UI/UX Desginer👋 <br/> </h2>
+<h1 align="center">Hi 👋, I'm Shailendra Jung Rana</h1>
+<h2 align="center">A passionate Frontend Developer <br/><br/> UI/UX Desginer <br/> </h2>
 <img align = “right” alt=“coding” width=“400” src ="Blue Geometric Illustration Graphic Designer LinkedIn Banner.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shailendra-Jung-Rana&label=Profile%20views&color=0e75b6&style=flat" alt="shailendra JR" /> </p>
 
