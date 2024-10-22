@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shailendra Jung Rana</h1>
+<h1 align="center">Hi 👋 <br/> I'm Shailendra Jung Rana</h1>
 <h2 align="center">A passionate Frontend Developer <br/><br/> UI/UX Desginer <br/> </h2>
 <img align = “right” alt=“coding” width=“400” src ="Blue Geometric Illustration Graphic Designer LinkedIn Banner.png"/>
 
