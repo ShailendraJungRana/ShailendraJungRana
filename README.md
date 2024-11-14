@@ -3,7 +3,7 @@
 <h2 align="center">A passionate Frontend Developer <br/><br/> UI/UX Desginer <br/> </h2>
 <img align = “right” alt=“coding” width=“400” src ="Blue Geometric Illustration Graphic Designer LinkedIn Banner.png"/>
 
-- 🔭 I’m currently working on AI Trip
+- 🔭 I’m currently working on Aagan Restaurant Web-App
 
 - 🌱 I’m currently learning **Next JS**
 
